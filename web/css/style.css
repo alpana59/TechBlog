@@ -1,0 +1,14 @@
+body{
+    
+}
+.primary-background {
+    background: #2196f3 !important;
+}
+.navbar {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.no-top-padding {
+  padding-top: 0 !important;
+  margin-top: -2px !important; /* thora upar chadhane ke liye */
+}
